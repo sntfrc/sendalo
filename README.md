@@ -15,3 +15,9 @@ c2t will work with just a simplex link, so all you need is an audio cable and th
 Finally, with this frontend you can unleash the power of c2t directly on your mobile device, with just an audio cable and no PC. Just paste the .dsk image URL from your favorite web archive, or upload your own, and the disk will be streamed over. Also nice on computers if you don’t want to download executables or type commands.
 
 c2t can do a lot more than this, don’t forget to check the official project page on GitHub to learn more.
+
+## Notes on code and licensing
+
+Sendalo is licensed under the MIT License. I don't actually care, but this is something you have to do in 2022.
+
+sendalo.wasm and sendalo.js are simple emscripten builds of vanilla c2t executables and do not constitute modified or derived works. c2t itself is licensed under the New BSD License. Full source code for the software can be found on the author's page.
